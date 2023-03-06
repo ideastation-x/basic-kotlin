@@ -4,7 +4,7 @@ fun main() {
 }
 
 // Format 1
-fun getMax(a: Int, b: Int, ): Int {
+fun getMax(a: Int, b: Int): Int {
     return if (a > b) a else b
 }
 
